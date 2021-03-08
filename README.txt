@@ -1,5 +1,4 @@
 Student: Max Hayne
-Course: CS455
 Assignment: 2
 
 Notes to TA:
